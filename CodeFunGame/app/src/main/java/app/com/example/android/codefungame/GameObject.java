@@ -6,12 +6,12 @@ import android.graphics.Rect;
  * Created by LENOVO on 1/8/2017.
  */
 public abstract class GameObject {
-        protected int x;
-        protected int y;
-        protected int dy;
-        protected int dx;
-        protected int width;
-        protected int height;
+        protected double x;
+        protected double y;
+        protected double dy;
+        protected double dx;
+        protected double width;
+        protected double height;
 
         public void setX(int x)
         {
