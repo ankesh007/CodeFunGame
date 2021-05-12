@@ -6,7 +6,7 @@ import android.graphics.Canvas;
 /**
  * Created by LENOVO on 1/8/2017.
  */
-
+// this is being edited by ankesh
 public class Background {
         private Bitmap image;
         private int x, y, dx;
